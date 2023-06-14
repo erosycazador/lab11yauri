@@ -1,0 +1,16 @@
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\lab11yauri.csproj.AssemblyReference.cache
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\lab11yauri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\View\Operaciones.xaml.g.cs
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\lab11yauri.AssemblyInfoInputs.cache
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\lab11yauri.AssemblyInfo.cs
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\lab11yauri.csproj.CoreCompileInputs.cache
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\bin\Debug\netstandard2.0\lab11yauri.deps.json
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\bin\Debug\netstandard2.0\lab11yauri.dll
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\bin\Debug\netstandard2.0\lab11yauri.pdb
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\lab11yauri.dll
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\refint\lab11yauri.dll
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\lab11yauri.pdb
+C:\Users\ERICA\source\repos\lab11yauri\lab11yauri\lab11yauri\obj\Debug\netstandard2.0\ref\lab11yauri.dll
